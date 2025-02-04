@@ -81,8 +81,8 @@ Food-Tuck Q-Commerce is designed to provide a smooth, efficient online food deli
 
 ### Deployment Overview:
 - *Hosting Service:* Vercel.
-- *GitHub Repository:* Food-Tuck Repo.
-- *Staging Site URL:* Food-Tuck.
+- *GitHub Repository:** [github repository](https://github.com/raaefkhan44/Food-Tuck)
+- *Staging Site URL:** [vercel deployment](https://food-tuck-six.vercel.app/).
 
 ### Environment Setup & Deployment Steps:
 1. Configure Vercel Hosting.
